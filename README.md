@@ -15,6 +15,24 @@ Proyek ini mengimplementasikan konsep-konsep kunci PSD, termasuk representasi si
 
 ---
 
+## 📊 Hasil Analisis
+
+Berikut adalah contoh hasil analisis dari segmen audio menggunakan aplikasi ini.
+
+### 1. Waveform
+Grafik ini menunjukkan representasi sinyal audio dalam domain waktu, menggambarkan perubahan amplitudo seiring berjalannya waktu.
+![Waveform](https://github.com/MENSTRUE/Analisis-Frekuensi-Musik/blob/main/hasil/waveform.png?raw=true)
+
+### 2. Spektrogram (STFT)
+Spektrogram menampilkan bagaimana spektrum frekuensi dari sinyal berubah dari waktu ke waktu. Sumbu vertikal adalah frekuensi, sumbu horizontal adalah waktu, dan intensitas warna menunjukkan kekuatan (amplitudo) dari frekuensi pada waktu tertentu.
+![Spektrogram](https://github.com/MENSTRUE/Analisis-Frekuensi-Musik/blob/main/hasil/spectrogram.png?raw=true)
+
+### 3. Spektrum Frekuensi (FFT)
+Grafik ini adalah hasil dari Fast Fourier Transform (FFT) yang menunjukkan komponen frekuensi dominan dalam segmen audio yang dianalisis. Ini membantu mengidentifikasi frekuensi mana yang paling kuat.
+![Spektrum FFT](https://github.com/MENSTRUE/Analisis-Frekuensi-Musik/blob/main/hasil/fft_spectrum.png?raw=true)
+
+---
+
 ## ✨ Fitur Utama
 
 -   **GUI Interaktif**: Antarmuka yang mudah digunakan berbasis **Tkinter**.
