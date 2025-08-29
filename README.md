@@ -15,6 +15,14 @@ Proyek ini mengimplementasikan konsep-konsep kunci PSD, termasuk representasi si
 
 ---
 
+## 🎥 Presentasi Video
+
+Tonton video presentasi dan demo lengkap aplikasi kami di YouTube:
+
+[![Presentasi Proyek Analisis Frekuensi Musik](https://img.youtube.com/vi/vW6ditALBi8/0.jpg)](https://www.youtube.com/watch?v=vW6ditALBi8)
+
+---
+
 ## 📊 Hasil Analisis
 
 Berikut adalah contoh hasil analisis dari segmen audio menggunakan aplikasi ini.
